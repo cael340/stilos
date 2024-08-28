@@ -1,0 +1,53 @@
+*
+{
+    margin: 0px;
+}
+.uno
+{
+    width: 800px;
+    height: 700px;
+    padding: 30px;
+    background-color: #1B4F72;
+}
+.dos
+{
+    width: 700px;
+    height: 600px;
+    padding: 30px;
+    background-color: #21618C;
+}
+.tres
+{
+    width: 600px;
+    height: 500px;
+    padding: 30px;
+    background-color: #2874A6;
+}
+.cuatro
+{
+    width: 500px;
+    height: 400px;
+    padding: 30px;
+    background-color: #2E86C1;
+}
+.cinco
+{
+    width: 400px;
+    height: 300px;
+    padding: 30px;
+    background-color: #3498DB;
+}
+.seis
+{
+    width: 300px;
+    height: 200px;
+    padding: 30px;
+    background-color: #5DADE2;
+}
+.siete
+{
+    width: 200px;
+    height: 100px;
+    padding: 30px;
+    background-color: #85C1E9;
+}
